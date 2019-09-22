@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is D669-001E
-
- Directory of C:\Naitik_Folder_Zeta\Personal_Folder\Udemy_Courses_Learning\GIT_Learn\Git and Github Step by Step For Beginners By Rghav Pal\MyProject
-
-09/22/2019  11:10 AM    <DIR>          .
-09/22/2019  11:10 AM    <DIR>          ..
-09/22/2019  11:10 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  388,497,948,672 bytes free
+change 1
